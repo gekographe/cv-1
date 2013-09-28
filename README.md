@@ -5,7 +5,7 @@ I'm an entry-level web developer in London. I love making things run smoothly&md
 
 Code immersion
 --------------
-After pushing the limit of what is practical in Excel, I became convinced there must be a better way to work. So this year I decided to learn how to code.
+After pushing the limit of what is practical in Excel, I became convinced there must be a better way to work. So this year I decided to learn how to code. Now I'm ready to work on real projects and mature my skills as a full stack web developer.
 
 ### Makers Academy
 Web development: Autumn 2013
