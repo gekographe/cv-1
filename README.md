@@ -1,17 +1,21 @@
 Josh Hill
 =========
 
-I'm an entry-level web developer in London. I love making things run smoothly&mdash;especially technology. Clarity is my goal. Read my code on [GitHub].
+I'm an entry-level web developer in London.
+I love making things run smoothly&mdash;especially technology.
+Read my code on [GitHub].
 
-Code immersion
---------------
-After pushing the limit of what is practical in Excel, I became convinced there must be a better way to work. So this year I decided to learn how to code. Now I'm ready to work on real projects and mature my skills as a full stack web developer.
+Web development
+---------------
+
+After seeing the benefits of bringing web apps into my work, I became convinced that software can transform business.
+So this year I learnt how to code. I'm ready to work on real projects and mature my skills as a full stack web developer.
 
 ### Makers Academy
 Web development: Autumn 2013
 
   - 12 week full-time course
-  - Ruby, OOP and software design
+  - Ruby, object oriented programming and software design
   - Full stack web development
   - Pair programming and teamwork
   - _Final project details (TBC)_
@@ -25,13 +29,20 @@ CS169.1 Software as a Service: March - April 2013
   - Ruby fundamentals and basic Rails
   - Behaviour driven design and test driven development
 
-Before code
------------
+Employment
+----------
 
-I come from theatre production, where I worked for the Royal Shakespeare Company, _Matilda The Musical_ and _Wicked The Musical_. After the financial crisis, I stepped up to support my father's commercial property business for two and a half years before returning to theatre. I also helped found brainstrust that has grown into a national charity for brain cancer patients and their carers.
+I come from theatre production, where I worked for the Royal Shakespeare Company, _Matilda The Musical_ and
+_Wicked The Musical_. After the financial crisis, I stepped up to support my father's commercial property business
+for two and a half years before returning to theatre. I also helped found brainstrust that has grown into a national
+charity for brain cancer patients and their carers.
 
 ### Royal Shakespeare Company
 Planning Co-ordinator: August 2012 - June 2013
+- Introduced Highrise as a basic CRM to manage applications from Assistant Directors.
+- Created an Excel template for season schedules with automatic performance breakdowns and formatting.
+- Conducted an online and telephone survey of 2,500 patrons to research assisted performances.
+- Created flexible mail merge templates for creative team contracts.
 - _Coming soon..._
 
 ### Matilda The Musical
@@ -46,7 +57,7 @@ Investment Consultant: November 2008 - July 2011
   - Co-ordinated the professional team of agents and advisors working on the property portfolio.
   - Represented Mountcity in negotiations and worked with solicitors to document six property transactions, including a complicated corporate sale.
   - Instigated cash flow forecasting to inform funding recommendations.
-  - Prepared three Annual Reports, which I redesigned to improve clarity.
+  - Changed the design of the Annual Reports to make the financial reports easier to understand.
 
 ### brainstrust
 Trustee and web designer: 2006 - 2011
@@ -60,8 +71,8 @@ Education
 ### University of Warwick
 Studied Biological Sciences: 2001-2005
 
-  - Kept a laboratory note book to record my actions.
-  - Conducted laboratory experiments and produced objective reports.
+  - Kept a laboratory note book to record my methods.
+  - Conducted laboratory experiments and produced scientific reports.
   - Used statistical models to calculate confidence in results.
 
 ### Winchester College
