@@ -9,8 +9,8 @@ Web development
 ---------------
 
 After enjoying web services at home and bringing the benefits of web apps into the office,
-I became convinced that good software transforms work.
-So this year I learnt how to code. I'm ready to work on real projects and mature my skills as a full stack web developer.
+I became convinced that good software transforms work. So this year I learnt how to code.
+I'm ready to work on real projects and mature my skills as a full stack web developer.
 
 ### Makers Academy
 Web development: Autumn 2013
@@ -30,7 +30,7 @@ CS169.1 Software as a Service: March - April 2013
   - Ruby fundamentals and basic Rails
   - Behaviour driven design and test driven development
 
-Employment
+Experience
 ----------
 
 I come from theatre production, where I worked for the Royal Shakespeare Company, _Matilda The Musical_ and
