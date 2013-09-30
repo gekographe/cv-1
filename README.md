@@ -8,7 +8,8 @@ Read my code on [GitHub].
 Web development
 ---------------
 
-After seeing the benefits of bringing web apps into my work, I became convinced that software can transform business.
+After enjoying web services at home and bringing the benefits of web apps into the office,
+I became convinced that good software transforms work.
 So this year I learnt how to code. I'm ready to work on real projects and mature my skills as a full stack web developer.
 
 ### Makers Academy
