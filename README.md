@@ -77,9 +77,7 @@ Education
   - Used statistical models to calculate confidence in results.
 
 ### Winchester College
-A-Level: Maths (A), Biology (A) and Chemistry (B)
-
-GCSE: 8 subjects (A - B), including Maths and English
+#### A-Level: Maths (A), Biology (A) and Chemistry (B)
 
 Interests
 ---------
