@@ -22,7 +22,7 @@ Web development: Autumn 2013
   - _Final project details (TBC)_
   - _More specific technical details?_
 
-### edX | BerkeleyX
+### edX | UCBerkeleyX
 CS169.1 Software as a Service: March - April 2013
 
   - 6 week part-time online course
