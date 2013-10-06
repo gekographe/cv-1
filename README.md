@@ -50,10 +50,11 @@ I'm ready to work on real projects and mature my skills as a full stack web deve
 Experience
 ----------
 
-I come from theatre production, where I worked for the Royal Shakespeare Company, _Matilda The Musical_ and
-_Wicked The Musical_. After the financial crisis, I stepped up to support my father's commercial property business
-for two and a half years before returning to theatre. I also helped found brainstrust that has grown into a national
-charity for brain cancer patients and their carers.
+I come from theatre production, where I worked for the Royal Shakespeare Company,
+_Matilda The Musical_ and _Wicked The Musical_. After the financial crisis,
+I stepped up to support my father's commercial property business for two and a half years
+before returning to theatre. I also helped found brainstrust, a charity that supports
+brain cancer patients and their carers.
 
 ### Royal Shakespeare Company
 #### Planning Co-ordinator: August 2012 - June 2013
@@ -92,6 +93,7 @@ Education
   - Kept a laboratory note book to record my methods.
   - Conducted laboratory experiments and produced scientific reports.
   - Used statistical models to calculate confidence in results.
+  - Carried out a research project analysing population data for significant trends.
 
 ### Winchester College
 #### A-Level: Maths (A), Biology (A) and Chemistry (B)
@@ -99,11 +101,11 @@ Education
 Interests
 ---------
 
+Code readability and refactoring
+
 Usability and UI design
 
-Test driven development and acceptance testing
-
-Code readability and refactoring
+Typography
 
 New web technologies
 
