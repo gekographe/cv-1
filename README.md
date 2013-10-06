@@ -10,7 +10,25 @@ Web development
 
 After enjoying web services at home and bringing the benefits of web apps into the office,
 I became convinced that good software transforms work. So this year I learnt how to code.
+I started with a six week part-time online course from UCBerkeley,
+then left my job to attend Makers Academy full-time for three months.
 I'm ready to work on real projects and mature my skills as a full stack web developer.
+
+#### Skills
+
+  - Ruby 2.0 language
+  - Rails 4 framework
+  - Sinatra framework and DataMapper ORM
+  - Object­ oriented principles and design
+  - Test­ driven development with RSpec and Jasmine
+  - Integration testing using Capybara and RSpec
+  - Behaviour driven development with Cucumber
+  - Version control with git and GitHub
+  - PostgreSQL database
+  - JavaScript and jQuery basics
+  - HTML5 and CSS3 with and without Erb, Haml and Sass
+  - Experience with APIs, including Twilio, Stripe and Pusher
+  - Deployment to Heroku
 
 ### Makers Academy
 #### Web development: Autumn 2013
@@ -20,7 +38,6 @@ I'm ready to work on real projects and mature my skills as a full stack web deve
   - Full stack web development
   - Pair programming and teamwork
   - _Final project details (TBC)_
-  - _More specific technical details?_
 
 ### edX | UCBerkeleyX
 #### CS169.1 Software as a Service: March - April 2013
