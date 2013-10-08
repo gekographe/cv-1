@@ -19,21 +19,22 @@ I'm ready to work on real projects and mature my skills as a full stack web deve
   - Ruby 2.0 language
   - Rails 4 framework
   - Sinatra framework and DataMapper ORM
+  - PostgreSQL database
   - Object­ oriented principles and design
   - Test­ driven development with RSpec and Jasmine
-  - Integration testing using Capybara and RSpec
+  - Integration testing with RSpec and Capybara
   - Behaviour driven development with Cucumber
   - Version control with git and GitHub
-  - PostgreSQL database
-  - JavaScript and jQuery basics
-  - HTML5 and CSS3 with and without Erb, Haml and Sass
+  - JavaScript and jQuery
+  - HTML5 and CSS3
+  - ERB, Haml and Sass
   - Experience with APIs, including Twilio, Stripe and Pusher
   - Deployment to Heroku
 
 ### Makers Academy
 #### Web development: Autumn 2013
 
-  - 12 week full-time course
+  - Highly selective 12 week full-time course
   - Ruby, object oriented programming and software design
   - Full stack web development
   - Pair programming and teamwork
