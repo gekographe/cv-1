@@ -14,7 +14,7 @@ I started with a six week part-time online course from UCBerkeley,
 then left my job to attend Makers Academy full-time for three months.
 I'm ready to work on real projects and mature my skills as a full stack web developer.
 
-#### Skills
+### Skills
 
   - Ruby 2.0 language
   - Rails 4 framework
@@ -59,6 +59,7 @@ brain cancer patients and their carers.
 
 ### Royal Shakespeare Company
 #### Planning Co-ordinator: August 2012 - June 2013
+
 - Introduced Highrise as a basic CRM to manage applications from Assistant Directors.
 - Created an Excel template for season schedules with automatic performance breakdowns and formatting.
 - Conducted an online and telephone survey of 2,500 patrons to research assisted performances.
@@ -67,6 +68,7 @@ brain cancer patients and their carers.
 
 ### Matilda The Musical
 #### Production Assistant: July 2011 - August 2012
+
   - Acted a first point of contact for the busy production office of _Matilda The Musical_.
   - Developed an efficient house seat booking process using a secure online form to collect credit card details.
   - Created a spreadsheet to semi-automate the child actors' weekly payroll.
@@ -74,8 +76,10 @@ brain cancer patients and their carers.
 
 ### Mountcity Investments
 #### Investment Consultant: November 2008 - July 2011
+
   - Co-ordinated the professional team of agents and advisors working on the property portfolio.
-  - Represented Mountcity in negotiations and worked with solicitors to document six property transactions, including a complicated corporate sale.
+  - Represented Mountcity in negotiations and worked with solicitors to document six property transactions,
+including a complicated corporate sale.
   - Instigated cash flow forecasting to inform funding recommendations.
   - Changed the design of the Annual Reports to make the financial reports easier to understand.
 
@@ -84,6 +88,7 @@ Volunteering
 
 ### brainstrust
 #### Trustee and web designer: 2006 - 2009
+
   - One of the first trustees of the charity that started amongst the grass roots and has grown to support thousands of brain cancer patients and their carers.
   - Designed and maintained the first two websites to provide advice and promote fundraising events.
   - Created the first donor database and organised the first mail shot to supporters.
