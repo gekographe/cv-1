@@ -18,17 +18,17 @@ I'm ready to work on real projects and mature my skills as a full stack web deve
 
   - Ruby 2.0 language
   - Rails 4 framework
-  - Sinatra framework and DataMapper ORM
   - PostgreSQL database
+  - Sinatra DSL and DataMapper ORM
   - Object­ oriented principles and design
   - Test­ driven development with RSpec and Jasmine
-  - Integration testing with RSpec and Capybara
+  - Integration tests with Capybara
   - Behaviour driven development with Cucumber
   - Version control with git and GitHub
   - JavaScript and jQuery
   - HTML5 and CSS3
   - ERB, Haml and Sass
-  - Experience with APIs, including Twilio, Stripe and Pusher
+  - Experience with APIs including Twilio, Stripe and Pusher
   - Deployment to Heroku
 
 ### Makers Academy
@@ -79,8 +79,11 @@ brain cancer patients and their carers.
   - Instigated cash flow forecasting to inform funding recommendations.
   - Changed the design of the Annual Reports to make the financial reports easier to understand.
 
+Volunteering
+------------
+
 ### brainstrust
-#### Trustee and web designer: 2006 - 2011
+#### Trustee and web designer: 2006 - 2009
   - One of the first trustees of the charity that started amongst the grass roots and has grown to support thousands of brain cancer patients and their carers.
   - Designed and maintained the first two websites to provide advice and promote fundraising events.
   - Created the first donor database and organised the first mail shot to supporters.
@@ -91,9 +94,9 @@ Education
 ### University of Warwick
 #### Studied Biological Sciences: 2001-2005
 
-  - Kept a laboratory note book to record my methods.
-  - Conducted laboratory experiments and produced scientific reports.
-  - Used statistical models to calculate confidence in results.
+  - Conducted laboratory experiments, analysed results and produced scientific reports.
+  - Kept a day book to record my laboratory methods.
+  - Used statistical models to calculate significance.
   - Carried out a research project analysing population data for significant trends.
 
 ### Winchester College
