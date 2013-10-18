@@ -19,7 +19,8 @@ I'm ready to work on real projects and mature my skills as a full stack web deve
   - Ruby 2.0 language
   - Rails 4 framework
   - PostgreSQL database
-  - Sinatra DSL and DataMapper ORM
+  - Sinatra DSL for web services
+  - DataMapper ORM
   - Object­ oriented principles and design
   - Test­ driven development with RSpec and Jasmine
   - Integration tests with Capybara
