@@ -28,8 +28,9 @@ I'm ready to work on real projects and mature my skills as a full stack web deve
   - Version control with git and GitHub
   - JavaScript and jQuery
   - HTML5 and CSS3
+  - Twitter Bootstrap with Rails
   - ERB, Haml and Sass
-  - Experience with APIs including Twilio, Stripe and Pusher
+  - Experience with APIs including Twilio and Stripe
   - Deployment to Heroku
 
 ### Makers Academy
@@ -39,7 +40,7 @@ I'm ready to work on real projects and mature my skills as a full stack web deve
   - Ruby, object oriented programming and software design
   - Full stack web development
   - Pair programming and teamwork
-  - _Final project details (TBC)_
+  - _Final project details (TBC by 8 November 2013)_
 
 ### edX | UCBerkeleyX
 #### CS169.1 Software as a Service: March - April 2013
@@ -61,19 +62,23 @@ brain cancer patients and their carers.
 ### Royal Shakespeare Company
 #### Planning Co-ordinator: August 2012 - June 2013
 
+- Contracted creative teams for productions and arranged their travel and accommodation.
+- Co-ordinated day-by-day schedules for tours and transfers.
+- Drafted 2014 Summer Season schedule.
 - Introduced Highrise as a basic CRM to manage applications from Assistant Directors.
 - Created an Excel template for season schedules with automatic performance breakdowns and formatting.
 - Conducted an online and telephone survey of 2,500 patrons to research assisted performances.
 - Created flexible mail merge templates for creative team contracts.
-- _Coming soon..._
 
 ### Matilda The Musical
 #### Production Assistant: July 2011 - August 2012
 
   - Acted a first point of contact for the busy production office of _Matilda The Musical_.
+  - Worked with members of every department on the day-to-day running of the production.
+  - Planned and booked rehearsal space before and during the run of the production.
+  - Signed off the weekly payroll, freelancer and supplier invoices.
   - Developed an efficient house seat booking process using a secure online form to collect credit card details.
   - Created a spreadsheet to semi-automate the child actors' weekly payroll.
-  - _More detail?_
 
 ### Mountcity Investments
 #### Investment Consultant: November 2008 - July 2011
