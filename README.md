@@ -16,9 +16,9 @@ I'm ready to work on real projects and mature my skills as a full stack web deve
 
 ### Skills
 
-  - Ruby 2.0 language
-  - Rails 4 framework
-  - PostgreSQL database
+  - Ruby 2.0
+  - Rails 4
+  - PostgreSQL
   - Sinatra DSL for web services
   - DataMapper ORM
   - Object­ oriented principles and design
@@ -26,9 +26,8 @@ I'm ready to work on real projects and mature my skills as a full stack web deve
   - Integration tests with Capybara
   - Behaviour driven development with Cucumber
   - Version control with git and GitHub
-  - JavaScript and jQuery
-  - HTML5 and CSS3
-  - Twitter Bootstrap with Rails
+  - JavaScript, jQuery and CoffeeScript
+  - HTML5, CSS3 and Twitter Bootstrap
   - ERB, Haml and Sass
   - Experience with APIs including Twilio and Stripe
   - Deployment to Heroku
