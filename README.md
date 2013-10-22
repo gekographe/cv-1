@@ -16,20 +16,23 @@ I'm ready to work on real projects and mature my skills as a full stack web deve
 
 ### Skills
 
+  - Object­ oriented principles and design
+  - Test­ driven development
+  - Pair programming
   - Ruby 2.0
   - Rails 4
   - PostgreSQL
   - Sinatra DSL for web services
   - DataMapper ORM
-  - Object­ oriented principles and design
-  - Test­ driven development with RSpec and Jasmine
+  - Unit tests with RSpec and Jasmine
   - Integration tests with Capybara
   - Behaviour driven development with Cucumber
   - Version control with git and GitHub
   - JavaScript, jQuery and CoffeeScript
   - HTML5, CSS3 and Twitter Bootstrap
   - ERB, Haml and Sass
-  - Experience with APIs including Twilio and Stripe
+  - WebSockets
+  - Integration of APIs, including Twilio, Stripe and Paperclip
   - Deployment to Heroku
 
 ### Makers Academy
