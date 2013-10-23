@@ -24,9 +24,10 @@ I'm ready to work on real projects and mature my skills as a full stack web deve
   - PostgreSQL
   - Sinatra DSL for web services
   - DataMapper ORM
-  - Unit tests with RSpec and Jasmine
-  - Integration tests with Capybara
+  - Unit testing with RSpec and Jasmine
+  - Integration testing with Capybara
   - Behaviour driven development with Cucumber
+  - FactoryGirl and Shoulda for Rails testing
   - Version control with git and GitHub
   - JavaScript, jQuery and CoffeeScript
   - HTML5, CSS3 and Twitter Bootstrap
