@@ -127,7 +127,9 @@ Typography
 
 New web technologies
 
-Agile and Lean methods
+Agile principles, values and practices
+
+Lean startups
 
 Meet me
 -------
