@@ -8,9 +8,8 @@ Read my code on [GitHub].
 Web development
 ---------------
 
-After enjoying web apps at home and convincing my colleagues of their benefits,
-I became convinced that good software transforms work. So this year I learnt
-how to code. I started with a six week part-time online course from UCBerkeley,
+I'm convinced that good software transforms work. So this year I learnt how to
+code. I started with a six week part-time online course from UCBerkeley,
 then left my job to attend Makers Academy full time for three months. I'm ready
 to work on real projects and mature my skills as a full stack web developer.
 
