@@ -8,7 +8,7 @@ Read my code on [GitHub].
 Web development
 ---------------
 
-I'm convinced that good software can transform our lives. So this year I learnt
+I'm convinced that great software transforms our lives. So this year I learnt
 how to code. I started with a six week part-time online course from UCBerkeley,
 then left my job to attend Makers Academy full time for three months. I'm ready
 to work on real projects and mature my skills as a full stack web developer.
