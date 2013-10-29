@@ -2,7 +2,7 @@ Josh Hill
 =========
 
 I'm an entry-level web developer in London.
-I love making things run smoothly&mdash;especially technology.
+I love making things that run smoothly&mdash;especially technology.
 Read my code on [GitHub].
 
 Web development
