@@ -8,8 +8,8 @@ Read my code on [GitHub].
 Web development
 ---------------
 
-I'm convinced that good software transforms work. So this year I learnt how to
-code. I started with a six week part-time online course from UCBerkeley,
+I'm convinced that good software can transform our lives. So this year I learnt
+how to code. I started with a six week part-time online course from UCBerkeley,
 then left my job to attend Makers Academy full time for three months. I'm ready
 to work on real projects and mature my skills as a full stack web developer.
 
@@ -32,6 +32,7 @@ to work on real projects and mature my skills as a full stack web developer.
   - HTML5, CSS3 and Twitter Bootstrap
   - ERB, Haml and Sass
   - WebSockets
+  - User authentication and authorisation with Devise
   - Integration of APIs, including Twilio, Stripe and Paperclip
   - Deployment to Heroku
 
