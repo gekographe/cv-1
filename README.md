@@ -32,8 +32,8 @@ to work on real projects and mature my skills as a full stack web developer.
   - HTML5, ERB and Haml
   - CSS3, Sass and Twitter Bootstrap 3
   - WebSockets
-  - User authentication and authorisation with Devise
-  - Integration of APIs, including Twilio, Stripe and Paperclip
+  - User authentication and authorisation with bcrypt and Devise
+  - Integration of APIs including Twilio, Stripe and Paperclip
   - Deployment to Heroku
 
 ### Makers Academy
