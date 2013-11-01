@@ -15,10 +15,10 @@ to work on real projects and mature my skills as a full stack web developer.
 
 ### Skills
 
+  - Agile values, principles and practice
   - Object­ oriented principles and design
   - Test­ driven development
   - Pair programming
-  - Agile values, principles and practice
   - Ruby 2.0
   - Rails 4
   - PostgreSQL
@@ -26,11 +26,11 @@ to work on real projects and mature my skills as a full stack web developer.
   - Unit testing with RSpec and Jasmine
   - Integration testing with Capybara
   - Behaviour driven development with Cucumber
-  - Rails testing with FactoryGirl and Shoulda
+  - FactoryGirl fixtures and Shoulda matchers
   - Version control with git and GitHub
   - JavaScript, jQuery and CoffeeScript
-  - HTML5, CSS3 and Twitter Bootstrap
-  - ERB, Haml and Sass
+  - HTML5, ERB and Haml
+  - CSS3, Sass and Twitter Bootstrap 3
   - WebSockets
   - User authentication and authorisation with Devise
   - Integration of APIs, including Twilio, Stripe and Paperclip
