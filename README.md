@@ -5,12 +5,15 @@ I'm an entry-level web developer in London.
 I love making things that run smoothly&mdash;especially technology.
 Read my code on [GitHub].
 
+
 Web development
 ---------------
 
 I'm convinced that great software transforms our lives. So this year I learnt
-how to code. I started with a six week part-time online course from UCBerkeley,
-then left my job to attend Makers Academy full time for three months. I'm ready
+how to code.
+
+I started with a six week part-time online course from UCBerkeley, then I
+devoted three months to learning how to code at Makers Academy. I'm ready
 to work on real projects and mature my skills as a full stack web developer.
 
 ### Skills
@@ -53,22 +56,24 @@ to work on real projects and mature my skills as a full stack web developer.
   - Ruby fundamentals and basic Rails
   - Behaviour driven design and test driven development
 
+
 Experience
 ----------
 
-I come from theatre production, where I worked for the Royal Shakespeare
-Company, _Matilda The Musical_ and _Wicked The Musical_. After the financial
-crisis, I stepped up to support my father's commercial property business for
-two and a half years before returning to theatre. I also helped found
-brainstrust, a charity that supports brain cancer patients and their carers.
+I come from theatre production, where I worked for the producers of the
+Royal Shakespeare Company, _Matilda The Musical_ and _Wicked The Musical_.
+I can deliver on strict deadlines, collaborate with creatives and facilitate
+large teams to produce their best work. I also have corporate experience
+gained during the financial crisis in the family property business. I helped
+found brainstrust, a charity that supports brain cancer patients and their
+carers.
 
 ### Royal Shakespeare Company
 #### Planning Co-ordinator: August 2012 - June 2013
 
-  - Contracted creative teams for productions and arranged their travel and
-    accommodation.
   - Co-ordinated day-by-day schedules for tours and transfers.
   - Drafted 2014 Summer Season schedule.
+  - Contracted creative teams and arranged their travel and accommodation.
   - Introduced Highrise as a basic CRM to manage applications from Assistant
     Directors.
   - Created a schedule template in Excel with automatic performance breakdowns
@@ -102,6 +107,7 @@ brainstrust, a charity that supports brain cancer patients and their carers.
   - Changed the design of the Annual Reports to make the financial reports
     easier to understand.
 
+
 Volunteering
 ------------
 
@@ -115,6 +121,7 @@ Volunteering
     promote fundraising events.
   - Created the first donor database and organised the first mail shot to
     supporters.
+
 
 Education
 ---------
@@ -130,20 +137,22 @@ Education
     trends.
 
 ### Winchester College
-#### A-Level: Maths (A), Biology (A) and Chemistry (B)
+#### A Level: Maths (A), Biology (A) and Chemistry (B)
+
 
 Interests
 ---------
 
 Code readability and refactoring
 
-Usability and UI design
+Usability
 
 Typography
 
 Data driven design
 
 Lean startups
+
 
 Meet me
 -------
