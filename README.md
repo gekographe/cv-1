@@ -9,12 +9,13 @@ Read my code on [GitHub].
 Web development
 ---------------
 
-I'm convinced that great software transforms our lives. So this year I learnt
-how to code.
+I'm convinced that great software transforms our lives. So this year I
+decided to turn my love of good software into real code.
 
 I started with a six week part-time online course from UCBerkeley, then I
-devoted three months to learning how to code at Makers Academy. I'm want to
-work on real projects and broaden my skills as a full stack web developer.
+devoted three months to learning how to code at Makers Academy. I grasp
+new ideas quickly and would like to broaden my skills as a full stack
+web developer.
 
 ### Skills
 
@@ -63,9 +64,9 @@ Experience
 I have worked as a co-ordinator for world class theatre productions where I
 delivered to strict deadlines, collaborated with creatives and facilitated
 large teams to produce excellent work. I also have corporate experience
-gained during the financial crisis in my father's property business. I helped
-found brainstrust, a charity that supports brain cancer patients and their
-carers.
+gained during the financial crisis in my father's property business. In 2006
+I helped found brainstrust, a charity that supports brain cancer patients
+and their carers.
 
 ### Royal Shakespeare Company
 #### Planning Co-ordinator: August 2012 - June 2013
