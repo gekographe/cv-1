@@ -62,7 +62,7 @@ Experience
 
 I come from theatre production, where I worked for the producers of the
 Royal Shakespeare Company, _Matilda The Musical_ and _Wicked The Musical_.
-I can deliver on strict deadlines, collaborate with creatives and facilitate
+I can deliver to strict deadlines, collaborate with creatives and facilitate
 large teams to produce their best work. I also have corporate experience
 gained during the financial crisis in the family property business. I helped
 found brainstrust, a charity that supports brain cancer patients and their
