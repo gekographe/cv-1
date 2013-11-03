@@ -143,7 +143,9 @@ Education
 Interests
 ---------
 
-Code readability and refactoring
+Code readability
+
+Software craftmanship
 
 Usability
 
