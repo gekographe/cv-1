@@ -13,8 +13,8 @@ I'm convinced that great software transforms our lives. So this year I learnt
 how to code.
 
 I started with a six week part-time online course from UCBerkeley, then I
-devoted three months to learning how to code at Makers Academy. I'm ready
-to work on real projects and mature my skills as a full stack web developer.
+devoted three months to learning how to code at Makers Academy. I'm want to
+work on real projects and broaden my skills as a full stack web developer.
 
 ### Skills
 
@@ -60,11 +60,10 @@ to work on real projects and mature my skills as a full stack web developer.
 Experience
 ----------
 
-I come from theatre production, where I worked for the producers of the
-Royal Shakespeare Company, _Matilda The Musical_ and _Wicked The Musical_.
-I can deliver to strict deadlines, collaborate with creatives and facilitate
-large teams to produce their best work. I also have corporate experience
-gained during the financial crisis in the family property business. I helped
+I have worked as a co-ordinator for world class theatre productions where I
+delivered to strict deadlines, collaborated with creatives and facilitated
+large teams to produce excellent work. I also have corporate experience
+gained during the financial crisis in my father's property business. I helped
 found brainstrust, a charity that supports brain cancer patients and their
 carers.
 
