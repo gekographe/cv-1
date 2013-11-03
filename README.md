@@ -65,8 +65,8 @@ I have worked as a co-ordinator for world class theatre productions where I
 delivered to strict deadlines, collaborated with creatives and facilitated
 large teams to produce excellent work. I also have corporate experience
 gained during the financial crisis in my father's property business. In 2006
-I helped found brainstrust, a charity that supports brain cancer patients
-and their carers.
+I helped found brainstrust as trustee and web designer and I continue to
+volunteer my time to support brain cancer patients and their carers.
 
 ### Royal Shakespeare Company
 #### Planning Co-ordinator: August 2012 - June 2013
