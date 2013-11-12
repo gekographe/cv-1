@@ -5,6 +5,13 @@ I'm a junior web developer in London.
 I love making things that run smoothly&mdash;especially technology.
 Read my code on [GitHub].
 
+Code examples
+-------------
+
+| [Airport] | [Sudoku] | [Hen Party App] |
+|:--------- |:-------- |:--------------- |
+| 100% test-driven Ruby model of airports and planes written using RSpec with an emphasis on code readability. | Sinatra web app to play Sudoku puzzles with a recursive algorithm to generate and solve puzzles. | Rails 4 MVP created in 10 days with [@Harrisam2] and [@jodiealaine] to make organising a hen party easier for maids of honour. |
+
 
 Web development
 ---------------
@@ -48,7 +55,7 @@ web developer.
   - Full stack web development
   - Pair programming and teamwork
   - Final project: [Hen Party App] - a Rails 4 app to make organising hen
-    parties easier for maids of honour. Created in 10 days with [@Harrisam]
+    parties easier for maids of honour. Created in 10 days with [@Harrisam2]
     and [@jodiealaine].
 
 ### UCBerkeleyX
@@ -164,10 +171,14 @@ I'm `jamesjoshuahill` on [Github], [LinkedIn] and [Twitter].
 07881 957 811,
 [jamesjoshuahill@gmail.com]
 
+  [Airport]: https://github.com/jamesjoshuahill/airport
+  [Sudoku]: https://github.com/jamesjoshuahill/sudoku-sinatra
+  [Hen Party App]: https://github.com/Harrisam/hen_party
+
   [UCBerkeleyX]: https://www.edx.org/course/berkeley/cs169-1x/software-service/1136
   [Makers Academy]: http://www.makersacademy.com
   [Hen Party App]: https://github.com/Harrisam/hen_party
-  [@Harrisam]: https://twitter.com/Harrisam2
+  [@Harrisam2]: https://twitter.com/Harrisam2
   [@jodiealaine]: https://twitter.com/jodiealaine
   
   [jamesjoshuahill@gmail.com]: mailto:jamesjoshuahill@gmail.com
