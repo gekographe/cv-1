@@ -19,7 +19,7 @@ Web development
 I'm convinced that great software transforms our lives. So this year I
 decided to turn my love of good software into real code.
 
-I started with a six week part-time online course from [UCBerkeleyX], then I
+I started with a six week part-time online course from UCBerkeleyX, then I
 devoted three months to learning how to code at [Makers Academy]. I grasp
 new ideas quickly and would like to broaden my skills as a full stack
 web developer.
@@ -175,7 +175,6 @@ I'm `jamesjoshuahill` on [Github], [LinkedIn] and [Twitter].
   [Sudoku]: https://github.com/jamesjoshuahill/sudoku-sinatra
   [Hen Party App]: https://github.com/Harrisam/hen_party
 
-  [UCBerkeleyX]: https://www.edx.org/course/berkeley/cs169-1x/software-service/1136
   [Makers Academy]: http://www.makersacademy.com
   [Hen Party App]: https://github.com/Harrisam/hen_party
   [@Harrisam2]: https://twitter.com/Harrisam2
