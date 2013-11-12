@@ -113,9 +113,7 @@ Volunteering
 ------------
 
 ### brainstrust
-**Trustee and web designer: 2006&mdash;2009**
-
-**Volunteer: 2009&mdash;present**
+**Trustee and web designer: 2006&mdash;2009 and volunteer ever since**
 
   - One of the first trustees of a charity that started amongst the grass roots
     and has grown to support thousands of brain cancer patients and their
