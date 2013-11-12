@@ -8,9 +8,9 @@ Read my code on [GitHub].
 Code examples
 -------------
 
-| [Airport] | [Sudoku] | [Hen Party App] |
-|:--------- |:-------- |:--------------- |
-| 100% test-driven Ruby model of airports and planes written using RSpec with an emphasis on code readability. | Sinatra web app to play Sudoku puzzles with a recursive algorithm to generate and solve puzzles. | Rails 4 MVP created in 10 days with [@Harrisam2] and [@jodiealaine] to make organising a hen party easier for maids of honour. |
+| [Hen Party App] | [Sudoku] | [Airport] |
+|:--------------- |:-------- |:--------- |
+| Rails MVP created in 10 days with [@Harrisam2] and [@jodiealaine] to make organising a hen party easier for maids of honour. | Sinatra web app to play Sudoku puzzles with a recursive algorithm to generate and solve puzzles. | 100% test-driven Ruby model of airports and planes written using RSpec with an emphasis on code readability. |
 
 
 Web development
