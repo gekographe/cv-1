@@ -1,7 +1,7 @@
 Josh Hill
 =========
 
-I'm an entry-level web developer in London.
+I'm a junior web developer in London.
 I love making things that run smoothly&mdash;especially technology.
 Read my code on [GitHub].
 
@@ -12,8 +12,8 @@ Web development
 I'm convinced that great software transforms our lives. So this year I
 decided to turn my love of good software into real code.
 
-I started with a six week part-time online course from UCBerkeley, then I
-devoted three months to learning how to code at Makers Academy. I grasp
+I started with a six week part-time online course from [UCBerkeleyX], then I
+devoted three months to learning how to code at [Makers Academy]. I grasp
 new ideas quickly and would like to broaden my skills as a full stack
 web developer.
 
@@ -41,16 +41,18 @@ web developer.
   - Deployment to Heroku
 
 ### Makers Academy
-#### Web development: Autumn 2013
+#### Web Development Bootcamp: August&mdash;November 2013
 
   - Highly selective 12 week full-time course
   - Ruby, object oriented programming and software design
   - Full stack web development
   - Pair programming and teamwork
-  - _Final project details (TBC by 8 November 2013)_
+  - Final project: [Hen Party App] - a Rails 4 app to make organising hen
+    parties easier for maids of honour. Created in 10 days with [@Harrisam]
+    and [@jodiealaine].
 
-### edX | UCBerkeleyX
-#### CS169.1 Software as a Service: March - April 2013
+### UCBerkeleyX
+#### CS169.1 Software as a Service: March&mdash;April 2013
 
   - 6 week part-time online course
   - Introduction to software engineering and SaaS architecture
@@ -69,7 +71,7 @@ I helped found brainstrust as trustee and web designer and I continue to
 volunteer my time to support brain cancer patients and their carers.
 
 ### Royal Shakespeare Company
-#### Planning Co-ordinator: August 2012 - June 2013
+#### Planning Co-ordinator: August 2012&mdash;June 2013
 
   - Co-ordinated day-by-day schedules for tours and transfers.
   - Drafted 2014 Summer Season schedule.
@@ -82,11 +84,10 @@ volunteer my time to support brain cancer patients and their carers.
     programming.
   - Created flexible mail merge templates for creative team contracts.
 
-### Matilda The Musical
-#### Production Assistant: July 2011 - August 2012
+### _Matilda The Musical_
+#### Production Assistant: July 2011&mdash;August 2012
 
-  - Acted a first point of contact for the busy production office of
-    _Matilda The Musical_.
+  - Acted a first point of contact for the busy production office.
   - Worked with members of every department on the day-to-day running of the
     production.
   - Planned and booked rehearsal space before and during the run of the
@@ -97,7 +98,7 @@ volunteer my time to support brain cancer patients and their carers.
   - Created a spreadsheet to semi-automate the child actors' weekly payroll.
 
 ### Mountcity Investments
-#### Investment Consultant: November 2008 - July 2011
+#### Investment Consultant: November 2008&mdash;July 2011
 
   - Co-ordinated the professional team of agents and advisors working on the
     property portfolio.
@@ -112,7 +113,8 @@ Volunteering
 ------------
 
 ### brainstrust
-#### Trustee and web designer: 2006 - 2009
+#### Trustee and web designer: 2006&mdash;2009
+#### Volunteer: 2009&mdash;present
 
   - One of the first trustees of a charity that started amongst the grass roots
     and has grown to support thousands of brain cancer patients and their
@@ -127,7 +129,7 @@ Education
 ---------
 
 ### University of Warwick
-#### Studied Biological Sciences: 2001-2005
+#### Studied Biological Sciences: 2001&mdash;2005
 
   - Conducted laboratory experiments, analysed results and produced scientific
     reports.
@@ -163,6 +165,12 @@ I'm `jamesjoshuahill` on [Github], [LinkedIn] and [Twitter].
 07881 957 811,
 [jamesjoshuahill@gmail.com]
 
+  [UCBerkeleyX]: https://www.edx.org/course/berkeley/cs169-1x/software-service/1136
+  [Makers Academy]: http://www.makersacademy.com
+  [Hen Party App]: https://github.com/Harrisam/hen_party
+  [@Harrisam]: https://twitter.com/Harrisam2
+  [@jodiealaine]: https://twitter.com/jodiealaine
+  
   [jamesjoshuahill@gmail.com]: mailto:jamesjoshuahill@gmail.com
   [GitHub]: https://github.com/jamesjoshuahill
   [LinkedIn]: http://linkedin.com/in/jamesjoshuahill
