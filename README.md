@@ -45,6 +45,8 @@ web developer.
   - WebSockets
   - User authentication and authorisation with bcrypt and Devise
   - Integration of APIs including Twilio, Stripe and Paperclip
+  - Mailgun API with RestClient
+  - GitHub Flavoured Markdown
   - Deployment to Heroku
 
 ### Makers Academy
