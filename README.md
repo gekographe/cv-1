@@ -96,7 +96,7 @@ volunteer my time to support brain cancer patients and their carers.
 ### _Matilda The Musical_
 **Production Assistant: July 2011&mdash;August 2012**
 
-  - Acted a first point of contact for the busy production office.
+  - Acted as first point of contact for the busy production office.
   - Worked with members of every department on the day-to-day running of the
     production.
   - Planned and booked rehearsal space before and during the run of the
