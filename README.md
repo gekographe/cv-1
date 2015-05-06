@@ -1,3 +1,5 @@
+_Please visit my [LinkedIn] profile for the latest summary of my working life._
+
 Josh Hill
 =========
 
