@@ -1,4 +1,4 @@
-_Please visit my [LinkedIn] profile for the latest summary of my working life._
+_NB: I haven't updated this CV since I graduated from Makers Academy in November 2013._
 
 Josh Hill
 =========
@@ -170,7 +170,7 @@ Lean startups
 
 Meet me
 -------
-I'm `jamesjoshuahill` on [Github], [LinkedIn] and [Twitter].
+I'm `jamesjoshuahill` on [Github] and [Twitter].
 
 07881 957 811,
 [jamesjoshuahill@gmail.com]
@@ -186,6 +186,5 @@ I'm `jamesjoshuahill` on [Github], [LinkedIn] and [Twitter].
   
   [jamesjoshuahill@gmail.com]: mailto:jamesjoshuahill@gmail.com
   [GitHub]: https://github.com/jamesjoshuahill
-  [LinkedIn]: http://linkedin.com/in/jamesjoshuahill
   [Twitter]: http://twitter.com/jamesjoshuahill
   [Tumblr]: http://jamesjoshuahill.tumblr.com
