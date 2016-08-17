@@ -172,9 +172,6 @@ Meet me
 -------
 I'm `jamesjoshuahill` on [Github] and [Twitter].
 
-07881 957 811,
-[jamesjoshuahill@gmail.com]
-
   [Airport]: https://github.com/jamesjoshuahill/airport
   [Sudoku]: https://github.com/jamesjoshuahill/sudoku-sinatra
   [Hen Party App]: https://github.com/Harrisam/hen_party
@@ -183,8 +180,6 @@ I'm `jamesjoshuahill` on [Github] and [Twitter].
   [Hen Party App]: https://github.com/Harrisam/hen_party
   [@Harrisam2]: https://twitter.com/Harrisam2
   [@jodiealaine]: https://twitter.com/jodiealaine
-  
-  [jamesjoshuahill@gmail.com]: mailto:jamesjoshuahill@gmail.com
+
   [GitHub]: https://github.com/jamesjoshuahill
   [Twitter]: http://twitter.com/jamesjoshuahill
-  [Tumblr]: http://jamesjoshuahill.tumblr.com
